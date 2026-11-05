@@ -346,6 +346,9 @@ importers:
       '@vencord/monaco-editor':
         specifier: 'catalog:'
         version: 0.57.0-beta.4
+      degit:
+        specifier: ^3.10.0
+        version: 3.10.1
       fflate:
         specifier: 'catalog:'
         version: 0.8.3
@@ -1264,6 +1267,11 @@ packages:
   define-properties@1.2.1:
     resolution: {integrity: sha512-8QmQKqEASLd5nx0U1B1okLElbUuuttJ/AnYmRXbbbGDWh6uS208EjD4Xqq/I9wK7u0v6O08XhTWnt5XtEbR6Dg==}
     engines: {node: '>= 0.4'}
+
+  degit@3.10.1:
+    resolution: {integrity: sha512-uk/EzGpCqFG7EYggYyz2SbLovBSok+dxzuKJywJ7VV77/20k/+P4CxG2qTNLTZOQ6snLsY/0mcipP40OLL2pBg==}
+    engines: {node: '>=20.0.0'}
+    hasBin: true
 
   devtools-protocol@0.0.1704951:
     resolution: {integrity: sha512-GQhQOs9u/Mvm1zMtJIH872JS4AskuZdUSsPNPk4ChahtWAUqgz6atEtIsMt+nO7MqF1Ic4HxII/k8Cu36JivNg==}
@@ -3299,6 +3307,8 @@ snapshots:
       define-data-property: 1.1.4
       has-property-descriptors: 1.0.2
       object-keys: 1.1.1
+
+  degit@3.10.1: {}
 
   devtools-protocol@0.0.1704951: {}
 
