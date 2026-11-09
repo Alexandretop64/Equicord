@@ -50,8 +50,8 @@
         "@streamparser/json": "catalog:",
         "@vap/core": "catalog:",
         "@vap/shiki": "catalog:",
-        "degit": "^3.10.0",
         "@vencord/monaco-editor": "catalog:",
+        "degit": "^3.10.0",
         "fflate": "catalog:",
         "gifenc": "catalog:",
         "gifuct-js": "catalog:",
@@ -96,5 +96,5 @@
     "engines": {
         "node": ">=22"
     },
-    "packageManager": "pnpm@12.16.1"
+    "packageManager": "pnpm@12.18.0"
 }
