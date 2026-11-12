@@ -5,6 +5,7 @@ const sources = [
     { from: "LostMorality/cordmuffin/custom-creations/gameTimeSpoof", to: "src/userplugins/gameTimeSpoof" },
     { from: "LostMorality/cordmuffin/custom-creations/streamTimeFarmer", to: "src/userplugins/streamTimeFarmer" },
     { from: "LostMorality/cordmuffin/custom-creations/profileImages", to: "src/userplugins/profileImages" },
+    { from: "LostMorality/cordmuffin/custom-creations/badgeTierViewer", to: "src/userplugins/badgeTierViewer" },
 
 ];
 
