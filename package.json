@@ -51,7 +51,7 @@
         "@vap/core": "catalog:",
         "@vap/shiki": "catalog:",
         "@vencord/monaco-editor": "catalog:",
-        "degit": "^3.10.0",
+        "degit": "^3.10.1",
         "fflate": "catalog:",
         "gifenc": "catalog:",
         "gifuct-js": "catalog:",
